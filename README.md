@@ -55,3 +55,10 @@ Camunda has the Tasklist, Cockpit and Admin UIs
 Kogito has Task console, Management Console, Sandbox, and various other sub UIs that can be optionally combined.  
 
 Kogito connects with OIDC for auth, and Camunda requires custom setup.
+
+
+# Decision Management
+
+Camunda has DMN
+
+Kogito has DMN and Drools + TrustyAI and some other predictive modeling capabilities
