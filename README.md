@@ -46,3 +46,12 @@ Kogito is embracing VS-Code development which is a something Camunda has not emb
 # Locking
 
 Both support locking.  Kogito docs are very light on details: https://docs.jboss.org/kogito/release/1.15.0/html_single/#_enabling_optimistic_locking_with_persistence
+
+
+# UIs
+
+Camunda has the Tasklist, Cockpit and Admin UIs
+
+Kogito has Task console, Management Console, Sandbox, and various other sub UIs that can be optionally combined.  
+
+Kogito connects with OIDC for auth, and Camunda requires custom setup.
