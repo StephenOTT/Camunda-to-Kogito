@@ -32,3 +32,12 @@ Can compile kogito to GraalVm.
 Camunda has History Service (DB backed)
 
 Kogito has the Index Service: Multiple backend options
+
+
+# Modeler
+
+Camunda has a much cleaner modeler
+
+Kogito modeler has some bugs to deal with.  Look and Feel is subpar compared to Camunda (even with Camunda Modeler's bugs and issues)
+
+Kogito is embracing VS-Code development which is a something Camunda has not embranced.  Camunda provides a ~plugin for VS-Code.
