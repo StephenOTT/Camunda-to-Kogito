@@ -62,3 +62,12 @@ Kogito connects with OIDC for auth, and Camunda requires custom setup.
 Camunda has DMN
 
 Kogito has DMN and Drools + TrustyAI and some other predictive modeling capabilities
+
+
+# Messages
+
+Camunda messaging appears to be much more advanced.  Where you can generate specific messages to one, many, and specific defintions or instances.
+
+Kogito / JBPM looks like some basic constructs of messaging, but is missing a builder to tailor the specific messaging.  
+
+More review needed.
